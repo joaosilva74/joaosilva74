@@ -36,11 +36,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplo
 />
 <img
 align="left"
-alt="Seaborn"
-title="Seaborn"
+alt="PostgreSQL"
+title="PostreSQl"
 width="30px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 
 
