@@ -2,7 +2,10 @@
 
 **`Data Analyst`**
 
-Me chamo João Paulo, tenho 20 anos e sou de Pernambuco. Concluí meu ensino médio na Escola de Referência em Ensino Médio Joaquim Olavo, atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU. Após um perido de estudos de desenvolvimento web, decidi me aprofundar na área de dados.
-Hoje foco em Python, Pandas, Numpy, Excel, Power BI, PostgreSQL e SQL.
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU, meu foco está na análise de Dados. Foco tanto nas softskills como nas hardskills. Também possuo base de conhecimento em Engenharia de Dados.
+
+Possuo conhecimento em Python (Pandas, NumPy, Matplotlib e Seaborn), Banco de Dados (PostgreSQL), Excel, Power BI e Spark.
+
+Atualmente estou em busca da minha primeira oportunidade de trabalho como júnior. Estou sempre disposto a resolver problemas e apresentar novas estratégias.
 
 
