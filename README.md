@@ -9,12 +9,12 @@ Possuo conhecimento em Python (Pandas, NumPy, Matplotlib e Seaborn), Banco de Da
 Atualmente estou em busca da minha primeira oportunidade de trabalho como júnior. Estou sempre disposto a resolver problemas e apresentar novas estratégias.
 
 
-## Linguagens e Tecnologias
+## Linguagens e Tecnologias para Análise
 <img
 align="left"
 alt="Numpy"
 title="Numpy"
 width="30px"
 style="padding-right: 10px;"
-scr= <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 />
