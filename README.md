@@ -12,9 +12,9 @@ Atualmente estou em busca da minha primeira oportunidade de trabalho como júnio
 ## Linguagens e Tecnologias
 <img
 align="left"
-ALT="Numpy"
+alt="Numpy"
 title="Numpy"
-Width="30px"
+width="30px"
 style="padding-right: 10px;"
 scr= <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
->
+/>
