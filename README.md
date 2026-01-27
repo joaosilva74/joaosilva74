@@ -1,4 +1,4 @@
-##💻 João Paulo
+# 📊João Paulo🐧
 
 **`Data Analyst`**
 
@@ -9,3 +9,6 @@ Possuo conhecimento em Python (Pandas, NumPy, Matplotlib e Seaborn), Banco de Da
 Atualmente estou em busca da minha primeira oportunidade de trabalho como júnior. Estou sempre disposto a resolver problemas e apresentar novas estratégias.
 
 
+## Linguagens e Tecnologias
+<img
+  scr=https://icons8.com.br/icons/set/power-bi>
